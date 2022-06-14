@@ -1,0 +1,222 @@
+{
+  "All": [
+  {
+      "DisplayName": "手枪",
+      "RequirePermission": "",
+      "Price": 200,
+      "IncludeItems": [
+        {
+          "物品ID": 164,
+          "堆叠": 1,
+          "前缀": 82,
+          "名称": "手枪"
+        },
+        {
+          "物品ID": 97,
+          "堆叠": 30,
+          "前缀": 0,
+          "名称": "火枪子弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "突击步枪",
+      "RequirePermission": "",
+      "Price": 500,
+      "IncludeItems": [
+        {
+          "物品ID": 109,
+          "堆叠": 1,
+          "前缀": 0,
+          "名称": "发条式突击步枪"
+        },
+        {
+          "物品ID": 97,
+          "堆叠": 200,
+          "前缀": 0,
+          "名称": "火枪子弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "冲锋枪",
+      "RequirePermission": "",
+      "Price": 500,
+      "IncludeItems": [
+        {
+          "物品ID": 1265,
+          "堆叠": 1,
+          "前缀": 0,
+          "名称": "乌兹冲锋枪"
+        },
+        {
+          "物品ID": 97,
+          "堆叠": 200,
+          "前缀": 0,
+          "名称": "火枪子弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "狙击枪",
+      "RequirePermission": "",
+      "Price": 2000,
+      "IncludeItems": [
+        {
+          "物品ID": 1254,
+          "堆叠": 1,
+          "前缀": 0,
+          "名称": "狙击步枪"
+        },
+        {
+          "物品ID": 97,
+          "堆叠": 20,
+          "前缀": 0,
+          "名称": "火枪子弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "爆破子弹",
+      "RequirePermission": "",
+      "Price": 100,
+      "IncludeItems": [
+        {
+          "物品ID": 1351,
+          "堆叠": 10,
+          "前缀": 0,
+          "名称": "爆破子弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "手榴弹",
+      "RequirePermission": "",
+      "Price": 100,
+      "IncludeItems": [
+        {
+          "物品ID": 168,
+          "堆叠": 2,
+          "前缀": 0,
+          "名称": "手榴弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "烟雾弹",
+      "RequirePermission": "",
+      "Price": 100,
+      "IncludeItems": [
+        {
+          "物品ID": 1168,
+          "堆叠": 20,
+          "前缀": 0,
+          "名称": "烟雾弹"
+        }
+      ]
+    },
+    {
+      "DisplayName": "燃烧瓶",
+      "RequirePermission": "",
+      "Price": 100,
+      "IncludeItems": [
+        {
+          "物品ID": 2590,
+          "堆叠": 10,
+          "前缀": 0,
+          "名称": "燃烧瓶"
+        }
+      ]
+    },
+    {
+      "DisplayName": "狙击镜",
+      "RequirePermission": "",
+      "Price": 300,
+      "IncludeItems": [
+        {
+          "物品ID": 1858,
+          "堆叠": 1,
+          "前缀": 0,
+          "名称": "狙击镜"
+        }
+      ]
+    },
+    {
+      "DisplayName": "牛奶",
+      "RequirePermission": "",
+      "Price": 100,
+      "IncludeItems": [
+        {
+          "物品ID": 5041,
+          "堆叠": 1,
+          "前缀": 0,
+          "名称": "牛奶"
+        }
+      ]
+    },
+    {
+      "DisplayName": "清除点券5000",
+      "RequirePermission": "",
+      "Price": 5000,
+      "IncludeItems": [
+        {
+          "物品ID": 75,
+          "堆叠": 0,
+          "前缀": 0,
+          "名称": "清除点券"
+        }
+      ]
+    },
+    {
+      "DisplayName": "清除点券1000",
+      "RequirePermission": "",
+      "Price": 1000,
+      "IncludeItems": [
+        {
+          "物品ID": 75,
+          "堆叠": 0,
+          "前缀": 0,
+          "名称": "清除点券"
+        }
+      ]
+    },{
+      "DisplayName": "清除点券500",
+      "RequirePermission": "",
+      "Price": 500,
+      "IncludeItems": [
+        {
+          "物品ID": 75,
+          "堆叠": 0,
+          "前缀": 0,
+          "名称": "清除点券"
+        }
+      ]
+    },{
+      "DisplayName": "清除点券100",
+      "RequirePermission": "",
+      "Price": 100,
+      "IncludeItems": [
+        {
+          "物品ID": 75,
+          "堆叠": 0,
+          "前缀": 0,
+          "名称": "清除点券"
+        }
+      ]
+    },
+    {
+      "DisplayName": "天穹星极",
+      "RequirePermission": "",
+      "Price": 9999999,
+      "IncludeItems": [
+        {
+          "物品ID": 4956,
+          "堆叠": 1,
+          "前缀": 0,
+          "名称": "天顶剑"
+        }
+      ]
+    }
+  ],
+  "HideUnavailableGoods": true
+}
